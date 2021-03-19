@@ -1,0 +1,19 @@
+.login {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 20px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 150px;
+  background-color: #93c3ff;
+
+
+  -webkit-box-shadow: 4px 6px 5px 3px rgb(167 167 167 / 75%);
+  -moz-box-shadow: 4px 6px 5px 3px rgb(167 167 167 / 75%);
+  box-shadow: 4px 6px 5px 3px rgb(167 167 167 / 75%);
+
+  label {
+    width: 125px;
+  }
+}

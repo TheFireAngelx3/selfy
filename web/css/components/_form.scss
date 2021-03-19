@@ -1,0 +1,17 @@
+.formrow {
+  float: left;
+  width: 100%;
+  margin: 0;
+}
+
+input, textarea {
+  border: 0;
+  outline: none;
+}
+
+button[type="submit"], .button {
+  border: 0;
+  outline: none;
+  background-color: #007bff;
+  padding: 5px 10px;
+}
